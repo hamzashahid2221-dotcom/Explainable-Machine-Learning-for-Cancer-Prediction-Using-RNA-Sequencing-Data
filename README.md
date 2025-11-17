@@ -92,23 +92,25 @@ The **top 15 genes** contributing most to cancer prediction, based on **XGBoost 
 #### Suggested Visualization
 ![Feature Importance](Results/FeatureImportance.png)
 This provides a clear, visual summary of the genes most critical for model predictions.
-🧠 Key Takeaways
+### 🧠 Key Takeaways
 
-High predictive accuracy: The model identifies cancer patients with near-perfect accuracy.
+> High predictive accuracy: The model identifies cancer patients with near-perfect accuracy.
 
-Explainable insights: Top-ranked genes reveal the features driving predictions, providing biological interpretability.
+> Explainable insights: Top-ranked genes reveal the features driving predictions, providing biological interpretability.
 
-Robust model: Consistent cross-validation results demonstrate generalizability.
-🛠 Tools & Technologies
+> Robust model: Consistent cross-validation results demonstrate generalizability.
+### 🛠 Tools & Technologies
 
-Python – data processing and analysis
+> Python – data processing and analysis
 
-XGBoost – gradient boosting classifier
+> XGBoost – gradient boosting classifier
 
-Scikit-Learn – feature selection and model evaluation
+> Scikit-Learn – feature selection and model evaluation
 
 Pandas & NumPy – handling high-dimensional gene expression data
-🤝 Contribution
+### 🤝 Contribution
+This repository is for results and methodology sharing only.
+For questions, discussions, or collaboration inquiries, please open an issue.
 
 This repository is for results and methodology sharing only.
 For questions, discussions, or collaboration inquiries, please open an issue.
