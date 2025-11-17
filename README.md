@@ -1,6 +1,6 @@
-# 🧬 Explainable Machine Learning for Cancer Prediction Using RNA Sequencing Data
+# 🧬 Explainable Machine Learning for Liver Cancer Prediction Using RNA Sequencing Data
 
-This repository presents an **explainable machine learning model** for predicting cancer using **high-dimensional RNA sequencing data**. The study leverages **feature selection** and **XGBoost classification** to distinguish cancer patients from non-cancer patients while highlighting the **most influential genes** driving predictions.  
+This repository presents an **explainable machine learning model** for predicting cancer using **high-dimensional RNA sequencing data**. The study leverages **feature selection** and **XGBoost classification** to distinguish Liver cancer patients from non-cancer patients while highlighting the **most influential genes** driving predictions.  
 
 ---
 
