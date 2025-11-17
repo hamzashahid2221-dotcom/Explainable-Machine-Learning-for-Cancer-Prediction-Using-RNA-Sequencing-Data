@@ -1,10 +1,5 @@
 # 🧬 Explainable Machine Learning for Cancer Prediction Using RNA Sequencing Data
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) 
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-orange) 
-![PLOS ONE](https://img.shields.io/badge/PLOS%20ONE-Paper-lightgrey) 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 This repository presents an **explainable machine learning model** for predicting cancer using **high-dimensional RNA sequencing data**. The study leverages **feature selection** and **XGBoost classification** to distinguish cancer patients from non-cancer patients while highlighting the **most influential genes** driving predictions.  
 
 ---
